@@ -1,4 +1,4 @@
-# Customer & Marketing Data Analysis | Power BI Dashboard
+# Marketing Data Analysis | Power BI Dashboard
 
 An interactive Power BI dashboard that analyzes marketing campaign performance, customer behavior, and revenue across channels, countries, and regions.
 
